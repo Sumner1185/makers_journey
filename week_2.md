@@ -1,6 +1,6 @@
 # Week 2
 
-## Weekly Goals
+##  Weekly Goals
 
 1. Make use of all week 1's skills!
 2. Break one class into two classes that work together, while maintaining test coverage
